@@ -4,6 +4,7 @@
 
   manifest_mod/id.json - файл манифеста мода с значением id
 
+Example mainlist.json:
 ```json
 [{ 
  "1" : {
@@ -21,7 +22,7 @@
 }]
 ```
 
-Example in mainlist.json
+Example for mod in mainlist.json
 ```json
  "end_id" : {
    "mainfest": "mainfest_mod/end_id.json",
