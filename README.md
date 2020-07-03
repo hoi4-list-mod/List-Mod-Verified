@@ -6,11 +6,11 @@
 ```json
 [{ 
  "1" : {
-   "mainfest": "mainfest_mod/3.json",
+   "mainfest": "mainfest_mod/1.json",
    "nameMod": "Econimic Crisis", 
  },
  "2" : {
-   "mainfest": "mainfest_mod/3.json",
+   "mainfest": "mainfest_mod/2.json",
    "nameMod": "EaW", 
  },
  "3" : {
