@@ -5,15 +5,15 @@
 
 ```json
 [{ 
- "1" :{
+ "1" : {
    "mainfest": "mainfest_mod/3.json",
    "nameMod": "Econimic Crisis", 
- }
- "2" :{
+ },
+ "2" : {
    "mainfest": "mainfest_mod/3.json",
    "nameMod": "EaW", 
- }
- "3" :{
+ },
+ "3" : {
    "mainfest": "mainfest_mod/3.json",
    "nameMod": "KaiserReich", 
  }
@@ -22,7 +22,7 @@
 
 Example in mainlist.json
 ```json
- "end_id" :{
+ "end_id" : {
    "mainfest": "mainfest_mod/end_id.json",
    "nameMod": "NameMod", 
  }
